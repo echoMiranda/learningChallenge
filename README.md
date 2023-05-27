@@ -33,7 +33,7 @@ A project mean to show off my self learning skills!
 -Lose time trying to solve an issue couse i push a branch with a diferent name from the defalt one,  
   will try to merge tomorrow if cant i will re make the process;  
   
-### Day 2 (Started 16:56 on 26/05/23) (Ended 21:02 on 25/05/23)
+### Day 2 (Started 16:56 on 26/05/23) (Ended 21:02 on 25/05/23) (4:06)
 
 -Try (again) to make README.ms file breake the line where i want;  
 -Download s_ theme dependencies (composer,xampp(for php composer dependencie));  
