@@ -33,7 +33,7 @@ A project mean to show off my self learning skills!
 -Lose time trying to solve an issue couse i push a branch with a diferent name from the defalt one,  
   will try to merge tomorrow if cant i will re make the process;  
   
-### Day 2 (Started 16:56 on 26/05/23) (Ended -:- on 25/05/23)
+### Day 2 (Started 16:56 on 26/05/23) (Ended 21:02 on 25/05/23)
 
 -Try (again) to make README.ms file breake the line where i want;  
 -Download s_ theme dependencies (composer,xampp(for php composer dependencie));  
@@ -44,6 +44,10 @@ A project mean to show off my self learning skills!
 -Delete the master brench (that contain the files crated by node.js);  
 -Try push new project(the one created by wordpress in local host) folder on main brench;  
 -Solving issues that keep me away from pushing the files;  
+-Issue solved(diferent brench name, diferent commiit history and files on local and remote)  
+  chage tehe local brench name, make a pull eveen with inconsistency of files using a parameter to ignore  
+  than make a push and work = )  
+
 
 
 
