@@ -46,9 +46,14 @@ A project mean to show off my self learning skills!
 -Solving issues that keep me away from pushing the files;  
 -Issue solved(diferent brench name, diferent commiit history and files on local and remote)  
   chage tehe local brench name, make a pull eveen with inconsistency of files using a parameter to ignore  
-  than make a push and work = )  
+  than make a push and work = )
 
+  ###### Pause (vacation and personal priorities) ^_^
 
+### Day 3 (Started 15:41 on 10/7/23) (Ended --:-- on --/7/23)
 
+-Returning to project;
+-working on mockup/wireframe;
+-
 
-<!-- echo = ) -->
+<!-- echo ^_^ -->
