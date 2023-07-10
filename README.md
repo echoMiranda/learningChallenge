@@ -54,6 +54,6 @@ A project mean to show off my self learning skills!
 
 -Returning to project;
 -working on mockup/wireframe;
--
+-rename some files;
 
 <!-- echo ^_^ -->
