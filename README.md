@@ -46,20 +46,20 @@ A project mean to show off my self learning skills!
 -Solving issues that keep me away from pushing the files;  
 -Issue solved(diferent brench name, diferent commiit history and files on local and remote)  
   change the local brench name, make a pull eveen with inconsistency of files using a parameter to ignore  
-  than make a push and work = ) ;
+  than make a push and work = ) ;  
 
   ##### Pause (vacation and personal priorities) ^_^
 
 ### Day 3 (Started 15:41 on 10/7/23) (Ended 18:08 on 10/7/23) (2:27)
 
--Returning to project;
--working on mockup/wireframe;
--rename some files;
--create some pages and content;
--try to figure outr how to modfy the layot and content;
--update language package;
--having dificulties to figure out were to make modifications that reflects on layot
-  (used to work with less files and create layouts from 0 using css class and tags on html files0) = ( ; 
+-Returning to project;  
+-working on mockup/wireframe;  
+-rename some files;  
+-create some pages and content;  
+-try to figure outr how to modfy the layot and content;  
+-update language package;  
+-having dificulties to figure out were to make modifications that reflects on layot  
+  (used to work with less files and create layouts from 0 using css class and tags on html files0) = ( ;   
 
 
 <!-- echo ^_^ -->
