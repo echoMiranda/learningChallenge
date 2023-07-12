@@ -402,7 +402,7 @@ input,
 select,
 optgroup,
 textarea {
-	color: #404040;
+	color: #ffffff/*#404040*/;
 	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
 	font-size: 1rem;
 	line-height: 1.5;
@@ -533,11 +533,11 @@ table {
 /* Links
 --------------------------------------------- */
 a {
-	color: #4169e1;
+	color: #fff/*#4169e1*/;
 }
 
 a:visited {
-	color: #800080;
+	color: #fff/*#800080*/;
 }
 
 a:hover,
