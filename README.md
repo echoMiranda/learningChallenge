@@ -48,7 +48,7 @@ A project mean to show off my self learning skills!
   change the local brench name, make a pull eveen with inconsistency of files using a parameter to ignore  
   than make a push and work = ) ;  
 
-#### Pause (vacation and personal priorities) ^_^  
+#### Pause (vacation and personal priorities) <^_^>  
 
 ### Day 3 (Started 15:41 on 10/7/23) (Ended 18:08 on 10/7/23) (2:27)  
 
@@ -75,7 +75,13 @@ A project mean to show off my self learning skills!
   Primary:C1502E, Secondary:587E76, Base:686256, BaseAlt:A96E5B ;  
 -Try to change text color but after changing the css the website remains the same = ( ;  
 
+### Day 6 (Started 10:10 on 24/7/23) (Ended --:-- on 12/7/23) (--:--)
+
+-Change color palette :Orange (Web) + Turquoise + Fern green  
+  Hex Codes: #FFA600, #98BE64, #577330;  
+-Design a logo;  
+
 
 ## Total time (until now)  
 # 15hrs and 27min
-<!-- echo ^_^ -->
+<!-- echo <^_^> -->
